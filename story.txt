@@ -1,1 +1,2 @@
 Branches accomplish similar goals in GitHub repositories.
+In this final step, it's time to bring your changes together-merging your readme-edits branch into the main branch
